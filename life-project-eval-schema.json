@@ -1,0 +1,67 @@
+### ✨ Bonus Tool: Life Project Realignment  
+Use this [reflection schema](./life-project-eval-schema.json) to evaluate where your energy’s going — and whether to water it, prune it, or let it rest.  
+
+{
+  "project": "Life Project Evaluation & Realignment",
+  "purpose": "This tool is for personal use — to check in on where your energy is going, what’s worth keeping, and what needs to go back on the altar. Use it to make grounded, clear decisions that honor your time, your capacities, your gifts, and the pace that actually sustains you.",
+  "instructions": {
+    "mindset": [
+      "This is not a self-drag — it’s a self-alignment. Be honest, not harsh.",
+      "Time is sacred. You don’t have to do it all, but you *do* deserve clarity on what’s worth it.",
+      "Let go of projects that aren’t feeding your purpose, your peace, or your paycheck.",
+      "Bring in both your strategist brain *and* your soul gut. You already know.",
+      "Use the lens of power: Does this project give you more or less of it?",
+      "Review with care. If you're stuck, imagine talking to your favorite future self — what would they say to protect your magic?"
+    ],
+    "fields": [
+      {
+        "name": "Project/Initiative Name",
+        "description": "What are you checking in on? (e.g., 'SpiteBot MVP', 'Summer Health Routine', 'XP.Exchange Phase 2')"
+      },
+      {
+        "name": "Category (Optional)",
+        "description": "Pick one or more: 'Paid Work', 'Legacy/Impact', 'Healing', 'Admin/Logistics', 'Creative Play', 'Family Life', or make your own."
+      },
+      {
+        "name": "Purpose and Desired Outcome",
+        "description": "What’s the dream or goal here? What’s this *for* in your life?"
+      },
+      {
+        "name": "What’s Working",
+        "description": "What has actually been nourishing, effective, or joyful about this?"
+      },
+      {
+        "name": "Drains, Delays, or Red Flags",
+        "description": "Where are you losing time, energy, or clarity? Be real. Even if it’s just vibes or tech burnout."
+      },
+      {
+        "name": "Real Talk Adjustments",
+        "description": "What could shift to make this more aligned with your actual life and energy? What would make it *lighter*, faster, or more worth your time this season?"
+      },
+      {
+        "name": "Power Check",
+        "description": "Does this increase your sense of agency, creativity, or freedom? Or does it sneakily reinforce hustle loops?"
+      },
+      {
+        "name": "Time & Touchpoint Check",
+        "description": "When’s the last time you worked on this, and how often does it realistically need attention? Weekly? Quarterly? Seasonally?"
+      },
+      {
+        "name": "Open Energy Notes (Optional)",
+        "description": "Any intuitions, dreams, or body signals you’ve been ignoring? Drop them here — your subconscious is trying to help."
+      },
+      {
+        "name": "Release Signal (Optional)",
+        "description": "Is this something to release for now — to shelve, pause, or ceremonially let go? What would it take to feel peace with that?"
+      },
+      {
+        "name": "Energy Score",
+        "description": "Score this project: +1 if it's energizing/nourishing, 0 if neutral, -1 if draining. You’ll tally this across projects to guide your next step."
+      }
+    ],
+    "ritual_rhythm": {
+      "description": "Check in every 2–4 weeks. Pick 1 thing to water, 1 to prune, and 1 to rest. Let this tool be a compass, not a checklist."
+    }
+  }
+}
+
